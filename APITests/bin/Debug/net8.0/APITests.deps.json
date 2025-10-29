@@ -9,7 +9,6 @@
       "APITests/1.0.0": {
         "dependencies": {
           "ExtentReports": "5.0.4",
-          "ExtentReports.Core": "1.0.3",
           "Microsoft.NET.Test.Sdk": "17.8.0",
           "NUnit": "4.4.0",
           "NUnit.Analyzers": "3.9.0",

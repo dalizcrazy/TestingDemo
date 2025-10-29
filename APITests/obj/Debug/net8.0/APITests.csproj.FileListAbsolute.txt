@@ -154,3 +154,4 @@ C:\Users\Dalia Aguilar\Documents\Projects\TestingDemo\APITests\obj\Debug\net8.0\
 C:\Users\Dalia Aguilar\Documents\Projects\TestingDemo\APITests\obj\Debug\net8.0\APITests.pdb
 C:\Users\Dalia Aguilar\Documents\Projects\TestingDemo\APITests\obj\Debug\net8.0\APITests.genruntimeconfig.cache
 C:\Users\Dalia Aguilar\Documents\Projects\TestingDemo\APITests\obj\Debug\net8.0\ref\APITests.dll
+C:\Users\Dalia Aguilar\Documents\Projects\TestingDemo\APITests\obj\Debug\net8.0\APITests.sourcelink.json

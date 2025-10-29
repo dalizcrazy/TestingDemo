@@ -157,3 +157,4 @@ C:\Users\Dalia Aguilar\Documents\Projects\TestingDemo\UITests\obj\Debug\net8.0\r
 C:\Users\Dalia Aguilar\Documents\Projects\TestingDemo\UITests\obj\Debug\net8.0\UITests.pdb
 C:\Users\Dalia Aguilar\Documents\Projects\TestingDemo\UITests\obj\Debug\net8.0\UITests.genruntimeconfig.cache
 C:\Users\Dalia Aguilar\Documents\Projects\TestingDemo\UITests\obj\Debug\net8.0\ref\UITests.dll
+C:\Users\Dalia Aguilar\Documents\Projects\TestingDemo\UITests\obj\Debug\net8.0\UITests.sourcelink.json

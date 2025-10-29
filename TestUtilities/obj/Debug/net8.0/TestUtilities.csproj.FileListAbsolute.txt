@@ -113,3 +113,4 @@ C:\Users\Dalia Aguilar\Documents\Projects\TestingDemo\TestUtilities\obj\Debug\ne
 C:\Users\Dalia Aguilar\Documents\Projects\TestingDemo\TestUtilities\obj\Debug\net8.0\TestUtilities.pdb
 C:\Users\Dalia Aguilar\Documents\Projects\TestingDemo\TestUtilities\obj\Debug\net8.0\TestUtilities.genruntimeconfig.cache
 C:\Users\Dalia Aguilar\Documents\Projects\TestingDemo\TestUtilities\obj\Debug\net8.0\ref\TestUtilities.dll
+C:\Users\Dalia Aguilar\Documents\Projects\TestingDemo\TestUtilities\obj\Debug\net8.0\TestUtilities.sourcelink.json
