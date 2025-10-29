@@ -57,6 +57,7 @@ dotnet test
 ```bash
 dotnet test --filter "Login_ValidUser_ShouldLoginSuccessfully"
 ```
+![Demo GIF](https://github.com/dalizcrazy/TestingDemo/blob/main/Demo.gif)
 
 ### Ejecutar con Visual Studio Code
 - Abre el Solution en Visual Studio Code
