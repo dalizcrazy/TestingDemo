@@ -61,4 +61,6 @@ dotnet test --filter "Login_ValidUser_ShouldLoginSuccessfully"
 - Abre el Solution en Visual Studio Code
 - Usa el Test Explorer para ejecutar pruebas individuales o en grupo
 
+### Video Demo Ejecución
+
 ![Demo GIF](https://github.com/dalizcrazy/TestingDemo/blob/main/Demo.gif)
