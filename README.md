@@ -7,7 +7,7 @@ Este repositorio contiene un conjunto de pruebas automatizadas para aplicaciones
 El proyecto está dividido en dos componentes principales:
 
 ### 1. UITests - Pruebas de Interfaz de Usuario
-- **Tecnologías**: Selenium WebDriver, NUnit, Extent Reports
+- **Tecnologías**: Selenium WebDriver, NUnit
 - **Propósito**: Ejecutar pruebas end-to-end en aplicaciones web
 - **Características**:
   - Framework de pruebas estructurado
@@ -37,7 +37,7 @@ El proyecto está dividido en dos componentes principales:
 
 1. **Clonar el repositorio**
    ```bash
-   git clone [url-del-repositorio]
+   git clone [https://github.com/dalizcrazy/TestingDemo.git]
    cd TestingDemo
    ```
 
@@ -61,31 +61,3 @@ dotnet test --filter "Login_ValidUser_ShouldLoginSuccessfully"
 ### Ejecutar con Visual Studio Code
 - Abre el Solution en Visual Studio Code
 - Usa el Test Explorer para ejecutar pruebas individuales o en grupo
-
-## 🏗️ Arquitectura
-
-### Page Object Model (POM)
-```csharp
-// Ejemplo: LoginPage.cs
-public class LoginPage
-{
-    private readonly IWebDriver _driver;
-    
-    public LoginPage(IWebDriver driver) => _driver = driver;
-    
-    public void NavigateTo() => _driver.Navigate().GoToUrl("[url-de-login]");
-    public void Login(string username, string password) { /* implementación */ }
-}
-```
-
-### Configuración de WebDriver
-```csharp
-// WebDriverSetup.cs
-public class WebDriverSetup
-{
-    public IWebDriver CreateDriver()
-    {
-        // Configuración del driver (Chrome, Firefox, etc.)
-    }
-}
-```
